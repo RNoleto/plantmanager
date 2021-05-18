@@ -1,3 +1,1 @@
-Parei o video com 0:55:42 onde é inserido o codigo de reconhecimento
-do S.O do aparelho para assim subir o teclado na hora de digitar o nome do 
-Usuario
+Aula 2 concluida
